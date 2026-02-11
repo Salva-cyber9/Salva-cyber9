@@ -3,8 +3,7 @@
 <!--
 **Salva-cyber9/Salva-cyber9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+:blush: hi everyone 
 - 🔭 I’m currently working on ... ENCiT
 - 🌱 I’m currently learning  ... Earth science 
 - 👯 I’m looking to collaborate on ... 
